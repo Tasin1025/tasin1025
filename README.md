@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tasin Rahman
+Hi ! 👋 I am Tasin Rahman
 ====================================================================================================================================
 
 Software Engineer
@@ -9,7 +9,7 @@ I am a passionate programmer, I love to code, build stuffs and solve issues. Sta
 * 🌍  I'm based in Bangladesh 🇧🇩
 * 🖥️  See my portfolio at [tasinrahman.com](http://tasinrahman.com)
 * ✉️  You can contact me at [TasinRahman1025@gmail.com](mailto:TasinRahman1025@gmail.com)
-* 🚀  I'm currently working on [3d-object-mern-app](http://https://github.com/Tasin1025/3d-object-mern-app)
+* 🚀  I'm currently working on [3d-object-mern-app](https://github.com/Tasin1025/3d-object-mern-app)
 * 🧠  I'm learning TensorFlow, React and detailed Machine Learning
 * 🤝  I'm open to collaborating on Ai, ML and Python projects. Also in Backend development with React and MongoDB
 * ⚡  I have two cats 😺 named Doggy and Tuki . I travel and eat a lot !!! ✈️🍗
